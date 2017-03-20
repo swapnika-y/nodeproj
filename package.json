@@ -1,0 +1,30 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "To learn angular node and unit-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnika-y/nodeproj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnika-y/nodeproj/issues"
+  },
+  "homepage": "https://github.com/swapnika-y/nodeproj#readme",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "jasmine-core": "^2.5.2",
+    "karma-jasmine": "^1.1.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma-jasmine": "^1.1.0"
+  }
+}
